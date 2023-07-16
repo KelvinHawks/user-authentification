@@ -1,0 +1,19 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+form input {
+  margin-bottom: 23px;
+  padding: 10px;
+}
+
+.err-cont {
+  background-color: #ec3131;
+  color: #fff;
+  display: flex;
+  border: 1px solid gray;
+  border-radius: 7px;
+  width: 300px;
+  justify-content: center;
+}
